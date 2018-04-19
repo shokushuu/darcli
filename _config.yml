@@ -23,3 +23,5 @@ github: shokushuu
 # Build settings
 markdown: kramdown
 permalink: /:categories/:title/
+
+theme: jekyll-theme-hacker
