@@ -17,10 +17,15 @@ En este sitio web encontrarás todo tipo de contenido que genere en el transcurs
 
 Siéntete libre de visitar todo.
 
-# $ cat contact.txt
+# $ sudo pacman -S ContactTX187
 {:id="contact"}
 
-I think that all about this theme is intuitive, but if you want help, please, contact me: [gjuniioor](https://github.com/gjuniioor).
+mail: merz.bow@protonmail.com
+IRC: tx187 en rizon.net
+Twitter: [tx187](https://twitter.com/tx187) (español e inglés)
+Twitter: [cosmicdeath1111](https://twitter.com/cosmicdeath111) (japonés)
+Discord: Shokushuu#1800
+github: [shokushuu](https://github.com/shokushuu)
 
 # $ cat posts.txt
 {:id="posts"}
