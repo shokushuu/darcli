@@ -2,11 +2,11 @@
 title: "触手"
 name: "TX187 Homepage"
 keywords: "dev, anime, otaku, denpa, freak, gore"
-baseurl: "/darcli"
+baseurl: "gjuniioor/darcli"
 url: "http://shokushuu.github.io"
 description: "Personal site"
 cover: "/assets/img/cover.svg"
-fanpage_id: "darcli"
+fanpage_id: ""
 
 # Site general settings
 lang: "en"
