@@ -24,4 +24,4 @@ github: shokushuu
 markdown: kramdown
 permalink: /:categories/:title/
 
-theme: jekyll-theme-hacker
+theme: jekyll-theme-minimal
