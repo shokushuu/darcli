@@ -20,12 +20,12 @@ Siéntete libre de visitar todo.
 # $ sudo pacman -S ContactTX187
 {:id="contact"}
 
-mail: merz.bow@protonmail.com
-IRC: tx187 en rizon.net
-Twitter: [tx187](https://twitter.com/tx187) (español e inglés)
-Twitter: [cosmicdeath1111](https://twitter.com/cosmicdeath111) (japonés)
-Discord: Shokushuu#1800
-github: [shokushuu](https://github.com/shokushuu)
+<br>mail: merz.bow@protonmail.com
+<br>IRC: tx187 en rizon.net
+<br>Twitter: [tx187](https://twitter.com/tx187) (español e inglés)
+<br>Twitter: [cosmicdeath1111](https://twitter.com/cosmicdeath111) (japonés)
+<br>Discord: Shokushuu#1800
+<br>github: [shokushuu](https://github.com/shokushuu)
 
 # $ cat posts.txt
 {:id="posts"}
