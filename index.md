@@ -2,59 +2,25 @@
 layout: default
 ---
 
-# $ cat about.txt
+# $ sudo pacman -S aboutThisPage
 {:id="about"}
 
-This is a theme intended to use to [lampiaosec](https://lampiaosec.github.io). So, it's our taste, but because we like free culture, it's free to.
+Bienvenido a SHOKUSHUU.
 
-The categories to post was to support us, but you can change as you need.
+Soy TX187, programador que experimenta con distintos tipos de ramas y estudios dentro de la academia como es el arte, los videojuegos y la música.
+
+Desde niño estoy obsesionado con las computadoras y todo lo relacionado con la tecnología, me he interiorizado en distintos tipos de ramas relacionadas a la tecnología como es la programación, el diseño digital, la comunicación digital, los videojuegos y la música electrónica.
+
+También me considero un adicto a la cultura japonesa, más que nada por el anime, los videojuegos y música. Me siento "en familia" con esa cultura y/o país ya que son excesivamente fanáticos por la tecnología y todo lo que involucra.
+
+En este sitio web encontrarás todo tipo de contenido que genere en el transcurso de mi vida virtual, ya sea scripts, códigos, artículos, música y videos.
+
+Siéntete libre de visitar todo.
 
 # $ cat contact.txt
 {:id="contact"}
 
 I think that all about this theme is intuitive, but if you want help, please, contact me: [gjuniioor](https://github.com/gjuniioor).
-
-# $ cat team.txt
-{:id="team"}
-
-<ul>
-{% for member in site.categories.team reversed %}
-<li id="{{ member.title }}">{{ member.title }}
-<ul>
-<li>{{ member.mail }}</li>
-<li><a href="https://github.com/{{ member.github }}">https://github.com/{{ member.github }}</a></li>
-<li><a href="{{ member.site }}">{{ member.site }}</a></li>
-</ul>
-</li>
-{% endfor %}
-</ul>
-
-# $ cat projects.txt
-{:id="projects"}
-
-<ul>
-{% for project in site.categories.projects %}
-<li><a href="{{ project.link }}">{{ project.title }}</a> - {{ project.description }}</li>
-{% endfor %}
-</ul>
-
-# $ cat tools.txt
-{:id="tools"}
-
-<ul>
-{% for tool in site.categories.tools %}
-<li><a href="{{ tool.link }}">{{ tool.title }}</a> - {{ tool.description }}</li>
-{% endfor %}
-</ul>
-
-# $ cat talks.txt
-{:id="talks"}
-
-<ul>
-{% for talk in site.categories.talks %}
-<li><a href="{{ talk.link }}" title="{{ talk.description }}">{{ talk.title }}</a> at {{ talk.where }}</li>
-{% endfor %}
-</ul>
 
 # $ cat posts.txt
 {:id="posts"}
