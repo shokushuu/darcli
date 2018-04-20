@@ -1,3 +1,16 @@
+---
+layout: post
+title: Lain ASCII Art
+date: 2018-04-20 12:00:00
+categories: posts
+comments: false
+en: true
+description: Me gusta el ASCII!
+keywords: "Lain, ascii, arte, moe, lulz"
+authors:
+    - TX187
+---
+
 # Lain ASCII Art
 
 Siempre he considerado el ASCII art como algo magnífico fusionando la creatividad humana con la carencia de paleta de colores y formas de dibujo en los antiguos computadores.
