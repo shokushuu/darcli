@@ -27,7 +27,7 @@ Siéntete libre de visitar todo.
   <br>◕ Discord: Shokushuu#1800
   <br>◕ github: [shokushuu](https://github.com/shokushuu)
 
-# $ cat posts.txt
+# $ sudo pacman -S BlogPersonal
 {:id="posts"}
 
 <ul>
@@ -40,7 +40,7 @@ Siéntete libre de visitar todo.
 {% endfor %}
 </ul>
 
-# $ cat articles.txt
+# $ sudo pacman -S Artículos
 {:id="articles"}
 
 <ul>
