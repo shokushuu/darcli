@@ -35,7 +35,6 @@ Siéntete libre de visitar todo.
 
 {% if post.en %}
 <li>{{ post.title }} :: <a href="{{ post.url }}" title="{{ post.description }}">leer</a></li>
-<li>{{ post.title }} :: <a href="{{ post.url }}" title="{{ post.description }}">leer</a></li>
 {% endif %}
 
 {% endfor %}
@@ -48,7 +47,6 @@ Siéntete libre de visitar todo.
 {% for post in site.categories.articles %}
 
 {% if post.en %}
-<li>{{ post.title }} :: <a href="{{ post.url }}" title="{{ post.description }}">leer</a></li>
 <li>{{ post.title }} :: <a href="{{ post.url }}" title="{{ post.description }}">leer</a></li>
 {% endif %}
 
