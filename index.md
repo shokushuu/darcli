@@ -19,6 +19,7 @@ Siéntete libre de visitar todo.
 
 # $ sudo pacman -S ContactTX187
 {:id="contact"}
+
   <br>◕ mail: merz.bow@protonmail.com
   <br>◕ IRC: tx187 en rizon.net
   <br>◕ Twitter: [tx187](https://twitter.com/tx187) (español e inglés)
