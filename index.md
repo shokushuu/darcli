@@ -36,10 +36,12 @@ En el año 2004 conocí y experimenté todo lo relacionado a Linux y sus distrib
 
 Mis otros gustos son el anime, los videojuegos, la música, la cocina, la cultura denpa y la literatura.
 
-##### Información para nerds:
+#### Información para nerds:
 ◕ Laptops: 2
 <br>◕ SO: Manjaro Linux y Windows 7
-<br>◕ Consoles: PlayStation 3 (hackeada), Super Nintendo (mod para super famicom), PS One (en proceso de reparación).
+<br>◕ Consoles: PlayStation 3 (hackeada), Super Nintendo (mod para super famicom), PS One (en proceso de reparación)
+<br>◕ Lenguajes: Python, Java, Javascript, C#, Ruby
+<br>◕ Móvil: HTC One m7
 
 # $ sudo pacman -S ContactTX187
 {:id="contact"}
