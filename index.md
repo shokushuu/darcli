@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# $ sudo pacman -S BlogPersonal
+# $ sudo pacman -S Posts
 {:id="posts"}
 
 <ul>
@@ -28,7 +28,7 @@ layout: default
 {% endfor %}
 </ul>
 
-# $ sudo pacman -S aboutThisPage
+# $ sudo pacman -S SobreTX187
 {:id="about"}
 
 Soy TX187, programador, adicto (obsesionado) por las computadoras y la tecnología. 
@@ -43,7 +43,7 @@ Mis otros gustos son el anime, los videojuegos, la música, la cocina, la cultur
 <br>◕ Lenguajes: Python, Java, Javascript, C#, Ruby
 <br>◕ Móvil: HTC One m7
 
-# $ sudo pacman -S ContactTX187
+# $ sudo pacman -S ContactoTX187
 {:id="contact"}
   
   ◕ mail: merz.bow@protonmail.com
