@@ -2,7 +2,7 @@
 layout: post
 title: Blah Blah
 date: 2018-04-22 12:00:00
-categories: article
+categories: articles
 comments: true
 en: true
 description: Un ejemplo
