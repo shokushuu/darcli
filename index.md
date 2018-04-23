@@ -48,7 +48,8 @@ Mis otros gustos son el anime, los videojuegos, la música, la cocina, la cultur
   
   ◕ mail: merz.bow@protonmail.com
   <br>◕ IRC: tx187 en rizon.net
-  <br>◕ Twitter: [tx187](https://twitter.com/tx187) (español e inglés)
+  <!--- <br>◕ Twitter: [tx187](https://twitter.com/tx187) (español e inglés) --->
   <br>◕ Twitter: [cosmicdeath1111](https://twitter.com/cosmicdeath1111) (japonés) 
   <br>◕ Discord: Shokushuu#1800
+  <br>◕ Telegram: nebula9
   <br>◕ github: [shokushuu](https://github.com/shokushuu)
