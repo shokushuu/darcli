@@ -13,13 +13,13 @@ authors:
     - Akari
 ---
 
-#blablablbala
-##blablablablabla
-###blabalbalablablab
-####ablablablabalblabalb
-#####ablablabalablablabal
+# blablablbala
+## blablablablabla
+### blabalbalablablab
+#### ablablablabalblabalb
+##### ablablabalablablabal
 
-#Σ(3i+30)
+# Σ(3i+30)
 
 ``` [python]
 hola = 1
